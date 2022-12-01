@@ -1,2 +1,3 @@
 # Training
-first repostery
+first repostery is done
+
